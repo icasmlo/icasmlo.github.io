@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://icasmlo.github.io/dFk/dFk.txt
